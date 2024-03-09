@@ -1,6 +1,7 @@
 ## Loan Data Analysis Project
-This project analyzes the loan data of a bank for a large number of Customers. In recent years, there has been a massive rise in lending people for various purposes. Due to working in the Bank, I felt interested in analyzing the loan data.
-The project focuses on preparing data, followed by analysis with basic formulas, and seeks to explain the findings from the study.
+This project analyzes the loan data of a bank for a large number of Customers. In recent years, banks are playing an indespensible role to lend people for various purposes. Due to working in the Bank, I felt interested in analyzing the loan data to find the corelation among purposes, interest rate and installment.  
+
+The project focuses on imported data from csv file, followed by analysis with basic formulas, and seeks to explain the findings from the study.
 ## Data sources
 Data was obtained from the Kaggle loan_data and the dataset contains 14 columns and 9578 rows.
 
